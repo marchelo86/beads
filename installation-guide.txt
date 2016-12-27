@@ -1,0 +1,21 @@
+Installation V1.0.0
+1. download the opencart menu [vqmode(optional)].
+2. paste content of upload folder on your site root folder.
+3. paste vqmod folder on your site root folder.
+- vqmode xml only needed if you need the navigation menu at backend, other wise you can ignore step 3 and manually code to display menu for it.
+4. install it using module from backend.
+- install will create database tables for menu
+5. create menu and menu items first and select menu created at module creation page and select position to display the menu.
+for further imformation/support contact rajshakya2000@gmail.com (http://rshakya.com.np)
+
+
+features:
+- Create menu groups for different position using opencart module.
+- Create menu items for menu groups using Opencart menu
+- Vqmode for backend menu for accessing pages for menus
+- multilingual support
+- Can create multiple menus for different positions
+- Separate Save and Save & close button for backend pages
+- Menu item sorting
+& more
+
